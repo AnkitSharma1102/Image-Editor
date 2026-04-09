@@ -8,7 +8,7 @@ It uses the Canvas API to apply real-time filters and allows users to download t
 ---
 
 ## 🚀 Live Demo  
-👉 Live Link: https://lnkd.in/g9EHkjve
+👉 Live Link:https://ankitsharma1102.github.io/Image-Editor/
 
 ---
 
